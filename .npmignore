@@ -3,7 +3,7 @@ node_modules/
 package-lock.json
 .env
 /src
-.prettierc
+.prettierrc
 eslint.config.mjs
 jest.config.js
 tsconfig.json
